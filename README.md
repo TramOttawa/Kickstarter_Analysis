@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+This part will be updated tomorrow.
 ### Purpose
 
 ## Analysis and Challenges
