@@ -15,6 +15,7 @@ The purpose of this project is to provide Louis with the comparation between cam
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+![image](https://user-images.githubusercontent.com/100484606/158025850-19701e47-02d6-4673-9372-1abf910dc39a.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
