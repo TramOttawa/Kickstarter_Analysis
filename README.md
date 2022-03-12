@@ -17,9 +17,9 @@ Apply pivot table and line charts to analyze the dataset.
 
 ### Analysis of Outcomes Based on Goals
 The following steps were applied to conduct the analysis:
-•	* Create a new table to group the funding goals into 12 groups from less than $1,000 to over $50,0000
-•	Apply COUNTIFS function to determine the number of successful, failed and cancelled of the campaigns based on the funding goal
-•	Apply line chart that graphs the relationship between goal amounts, and it chances of success, failure or cancellation.
+*•	Create a new table to group the funding goals into 12 groups from less than $1,000 to over $50,0000
+*•	Apply COUNTIFS function to determine the number of successful, failed and cancelled of the campaigns based on the funding goal
+*•	Apply line chart that graphs the relationship between goal amounts, and it chances of success, failure or cancellation.
 
 ### Challenges and Difficulties Encountered
 •	The main challenge I encountered while working on this project is that I spent a lot of time to understand the data and the requirements before working on analysis. I have followed the instructions and followed the guidelines on how to solve the problems as this is my first project working as a data analyst.
