@@ -10,10 +10,10 @@ The purpose of this project is to provide Louis with the comparation between cam
 
 ### Analysis of Outcomes Based on Launch Date
 The following steps were applied to conduct the analysis:
-####•	Separate category and subcategory into two separated columns to apply filter by category
-####•	Convert dates using Unix timestamps into a readable format
-####•	Insert a “Year” column to filter by year
-####•	Apply pivot table and line charts to analyze the dataset.
+Separate category and subcategory into two separated columns to apply filter by category
+Convert dates using Unix timestamps into a readable format
+Insert a “Year” column to filter by year
+Apply pivot table and line charts to analyze the dataset.
 
 ### Analysis of Outcomes Based on Goals
 The following steps were applied to conduct the analysis:
