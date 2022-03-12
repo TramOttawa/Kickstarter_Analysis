@@ -3,7 +3,7 @@ The analysis will be conducted based on the Kickstarter campaign data collected 
 ## Overview of Project
 This part will be updated tomorrow.
 ### Purpose
-
+The purpose of this project is to provide Louis with the comparation between campaigns faired in relation to their launch dates and funding goals. Through kickstart data set provided, I will apply my knowledge in excel by using pivot tables and graphing to analyze the outcomes based on launch dates and funding goals.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
