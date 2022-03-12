@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-
+The analysis will be conducted based on the Kickstarter campaign data collected from 2009 to 2017 of 21 countries.
 ## Overview of Project
 This part will be updated tomorrow.
 ### Purpose
